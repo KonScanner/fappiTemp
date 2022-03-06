@@ -1,0 +1,2 @@
+# fappiTemp
+FastAPI template (toolbox)
